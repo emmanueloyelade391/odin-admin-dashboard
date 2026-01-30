@@ -14,6 +14,8 @@ body {
   grid-template-columns: 1fr 4.5fr; 
 }
 
+/*Sidebar code*/
+
 .sidebar {
   background-color: #72c9ff;
   width: 100%;
@@ -86,6 +88,7 @@ body {
   font-weight: bold;
 }
 
+/*Navigation bar code*/
 .navbar {
   width: 100%;
   display: grid;
@@ -174,6 +177,7 @@ body {
   color: white;
 }
 
+/*Main section code*/
 .main-content {
   width: 100%;
   display: grid;
