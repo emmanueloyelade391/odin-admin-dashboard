@@ -30,7 +30,7 @@ body {
   display: grid;
   grid-template-rows: 60px 300px 1fr;
   align-items: start;
-  gap: 50px;
+  gap: 70px;
 }
 
 .sidebar p {
@@ -70,7 +70,7 @@ body {
 
 .options-container ul {
   display: grid;
-  gap: 20px;
+  gap: 30px;
 }
 
 .options-container li {
@@ -93,7 +93,7 @@ body {
 
 .settings-container ul {
   display: grid;
-  gap: 20px;
+  gap: 30px;
 }
 
 .settings-container li {
