@@ -8,7 +8,7 @@ body {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   min-height: 100vh;
   display: grid;
-  grid-template-columns: minmax(261px, 1fr) 4fr;
+  grid-template-columns: minmax(300px, 1fr) 4fr;
   row-gap: 30px;
   background-color: rgb(226, 232, 240);
 }
